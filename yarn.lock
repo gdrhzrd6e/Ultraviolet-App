@@ -4526,8 +4526,8 @@
   "resolved" "https://registry.npmjs.org/uc.micro/-/uc.micro-1.0.6.tgz"
   "version" "1.0.6"
 
-"ultraviolet-static@file:../Ultraviolet-Static":
-  "resolved" "file:../Ultraviolet-Static"
+"ultraviolet-static@file:../../../../../../../xampp/htdocs/MyWebapplications/Ultraviolet-Static":
+  "resolved" "file:../../../../../../../xampp/htdocs/MyWebapplications/Ultraviolet-Static"
   "version" "1.0.2"
 
 "unicode-canonical-property-names-ecmascript@^2.0.0":
